@@ -11,7 +11,7 @@
   <image width="64" height="64" source="../../oasis-client/development/sprites/world/unit/tree2.png"/>
  </tile>
  <tile id="2">
-  <image width="64" height="64" source="../../oasis-client/development/sprites/world/unit/tree.png"/>
+  <image width="64" height="64" source="../sprites/unit/tree.png"/>
  </tile>
  <tile id="3">
   <image width="64" height="64" source="../../oasis-client/development/sprites/world/unit/stone.png"/>
@@ -23,7 +23,7 @@
   <image width="64" height="64" source="../../oasis-client/development/sprites/world/unit/tree_seed.png"/>
  </tile>
  <tile id="7">
-  <image width="64" height="64" source="../../oasis-client/development/sprites/world/unit/stone_wall.png"/>
+  <image width="64" height="64" source="../sprites/unit/stone_wall.png"/>
  </tile>
  <tile id="8">
   <image width="64" height="64" source="../sprites/unit/pink_wall.png"/>
