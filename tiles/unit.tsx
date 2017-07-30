@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tileset name="unit" tilewidth="64" tileheight="64" tilecount="11" columns="0">
+<tileset name="unit" tilewidth="64" tileheight="64" tilecount="12" columns="0">
  <grid orientation="orthogonal" width="1" height="1"/>
  <terraintypes>
   <terrain name="" tile="0"/>
@@ -36,5 +36,8 @@
  </tile>
  <tile id="11">
   <image width="64" height="64" source="../sprites/unit/bridge_h.png"/>
+ </tile>
+ <tile id="12">
+  <image width="64" height="64" source="../sprites/unit/waterfall.png"/>
  </tile>
 </tileset>
